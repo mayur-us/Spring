@@ -1,0 +1,3 @@
+com\emlebi\restwebservices\webservices\RestfulWebServicesApplicationTests.class
+com\emlebi\restwebservices\integration\PersonIntegrationTest.class
+com\emlebi\restwebservices\units\PersonTest.class

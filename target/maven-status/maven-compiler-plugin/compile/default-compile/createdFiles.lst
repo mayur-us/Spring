@@ -1,0 +1,13 @@
+com\emlebi\restwebservices\repositories\PersonJpaRepository.class
+com\emlebi\restwebservices\controllers\UserController.class
+com\emlebi\restwebservices\security\WebSecurityConfig.class
+com\emlebi\restwebservices\RestfulWebServicesApplication.class
+com\emlebi\restwebservices\security\JWTAuthenticationFilter.class
+com\emlebi\restwebservices\controllers\PersonController.class
+com\emlebi\restwebservices\repositories\UserRepository.class
+com\emlebi\restwebservices\service\JwtUserDetailsService.class
+com\emlebi\restwebservices\model\User.class
+com\emlebi\restwebservices\config\SwaggerConfig.class
+com\emlebi\restwebservices\security\SecurityConstants.class
+com\emlebi\restwebservices\security\JWTAuthorizationFilter.class
+com\emlebi\restwebservices\model\Person.class

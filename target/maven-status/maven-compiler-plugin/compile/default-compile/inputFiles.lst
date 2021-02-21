@@ -1,0 +1,13 @@
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\security\JWTAuthorizationFilter.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\repositories\PersonJpaRepository.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\config\SwaggerConfig.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\service\JwtUserDetailsService.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\repositories\UserRepository.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\controllers\PersonController.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\security\WebSecurityConfig.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\security\JWTAuthenticationFilter.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\model\Person.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\RestfulWebServicesApplication.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\model\User.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\controllers\UserController.java
+C:\InterviewsComplete\UBS\emlebi_eval\src\main\java\com\emlebi\restwebservices\security\SecurityConstants.java
